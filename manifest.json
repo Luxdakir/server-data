@@ -37,6 +37,13 @@
       "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
       "prefix": "iris-neoforge",
       "sha256": ""
+    },
+    {
+      "name": "armourersworkshop-forge-1.21.1-3.2.7-beta",
+      "filename": "armourersworkshop-forge-1.21.1-3.2.7-beta.jar",
+      "url": "https://cdn.modrinth.com/data/y4JF3gXL/versions/SN75FqGh/armourersworkshop-forge-1.21.1-3.2.7-beta.jar",
+      "prefix": "armourersworkshop-forge",
+      "sha256": ""
     }
   ]
 }
