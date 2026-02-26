@@ -8,7 +8,7 @@
       "filename": "terrarium-neoforge-1.21.1-2.0.0+1.21.1.jar",
       "url": "https://github.com/Luxdakir/Earth-Tiles/releases/download/v2.0.0/terrarium-neoforge-1.21.1-2.0.0+1.21.1.jar",
       "prefix": "terrarium-neoforge",
-      "sha256": "34ab225bc55c96d541bf2df6f0eb4ab589fc028439682ef68cc805da34a7eb81"
+      "sha256": "45756e9736f6aebdfb7fba81723ac4f6da93854cf12a0647afc46c53d63f9e5e"
     },
     {
       "name": "Architectury API",
@@ -113,6 +113,20 @@
       "filename": "GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
       "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/8wmCpbQ2/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
       "prefix": "GlitchCore-neoforge",
+      "sha256": ""
+    },
+    {
+      "name": "0.15.0",
+      "filename": "chat_heads-0.15.0-neoforge-1.21.jar",
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/JsI8Calw/chat_heads-0.15.0-neoforge-1.21.jar",
+      "prefix": "chat_heads",
+      "sha256": ""
+    },
+    {
+      "name": "Smooth Gui 1.1.0",
+      "filename": "smoothgui-neoforge-1.21.1-1.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/WVSpzVhZ/smoothgui-neoforge-1.21.1-1.1.0.jar",
+      "prefix": "smoothgui-neoforge",
       "sha256": ""
     }
   ],
