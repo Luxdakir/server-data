@@ -502,6 +502,20 @@
       "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/qYqVf5jP/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar",
       "prefix": "mru",
       "sha256": ""
+    },
+    {
+      "name": "Xaero's Minimap 25.2.10",
+      "filename": "Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/DyuxZXfy/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
+      "prefix": "Xaeros_Minimap",
+      "sha256": ""
+    },
+    {
+      "name": "Xaero's World Map 1.39.12",
+      "filename": "XaerosWorldMap_1.39.12_NeoForge_1.21.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/3WghnUq9/XaerosWorldMap_1.39.12_NeoForge_1.21.jar",
+      "prefix": "XaerosWorldMap",
+      "sha256": ""
     }
   ],
   "configs": [
@@ -525,3 +539,4 @@
     }
   ]
 }
+
