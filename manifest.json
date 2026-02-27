@@ -11,7 +11,7 @@
       "filename": "terrarium-neoforge-1.21.1-2.0.0+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Luxdakir/server-data/main/terrarium-neoforge-1.21.1-2.0.0%2B1.21.1.jar",
       "prefix": "terrarium-neoforge",
-      "sha256": "45756e9736f6aebdfb7fba81723ac4f6da93854cf12a0647afc46c53d63f9e5e"
+      "sha256": "19413041869930055e4814e9b772cebceb4cd379a932a1b7311d88b2f2a954cb"
     },
     {
       "name": "Architectury API",
@@ -518,4 +518,5 @@
     }
   ]
 }
+
 
